@@ -25,4 +25,4 @@ It is a first-person game where you have to solve puzzles and find story papers 
 - **Integrated Development Environment (IDE):** Visual Studio 2022
 
 ![Screenshot 3](Screenshots/3.png)
-![Screenshot 4](Screenshots/4.png)
+![Screenshot 4](Screenshots/5.gif)
