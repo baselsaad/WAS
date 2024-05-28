@@ -24,5 +24,9 @@ It is a first-person game where you have to solve puzzles and find story papers 
 - **3D Modeling:** Blender
 - **Integrated Development Environment (IDE):** Visual Studio 2022
 
+## Download
+
+[Download the game prototype - Initial Release](https://github.com/baselsaad/WAS/releases/tag/V1.0)
+
 ![Screenshot 3](Screenshots/3.png)
 ![Screenshot 4](Screenshots/5.gif)
